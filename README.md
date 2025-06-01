@@ -16,7 +16,7 @@
 
 ## 🧠 Machine Learning Details
 
-- **Dataset**: IMDb movie reviews dataset from [Kaggle](https://www.kaggle.com/)
+- **Dataset**: IMDb movie reviews dataset from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - **Text Cleaning**: 
   - Removing HTML tags
   - Removing special characters & punctuation
@@ -29,5 +29,18 @@
 
 ---
 
-## 🗂 Project Structure
+## 🧪 How to Run
+
+1. **Install dependencies**  
+   *(Create a virtual environment if preferred)*
+
+   ```bash
+   pip install -r requirements.txt
+   ````
+2. **Run the app**  
+   ```bash
+   streamlit run app.py
+   ````
+
+
 
